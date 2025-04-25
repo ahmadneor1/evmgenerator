@@ -6,7 +6,7 @@ Welcome to the Ethereum AUTO Wallet Generator, a simple script to effortlessly g
 # Follow this step!
 
 1. First, you need to clone this repo:
-<pre lang="markdown">https://github.com/ahmadneor1/evmgenerator.git</pre>
+<pre lang="markdown">git clone https://github.com/ahmadneor1/evmgenerator.git</pre>
 2. After that, go to the folder:
 <pre lang="markdown">cd evmgenerator</pre>
 3. Then, you need to install it:
